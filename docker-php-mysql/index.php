@@ -14,7 +14,6 @@
     echo "<p>Mi nombre es $nombre.</p>";
     echo "<p>Mi matricula es $matricula.</p>";
     ?>
-
-    <p>¡Espero que encuentres esta página útil!</p>
+    
 </body>
 </html>
