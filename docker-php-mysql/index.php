@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Esto es mi pagina funcionando con Docker Compose</h1>
-    <p>Se utilizo php y mysql.</p>
+    <p>Se utilizo para crearlo php y mysql.</p>
 
     <?php
     $nombre = "Raymond Suarez";
